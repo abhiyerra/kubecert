@@ -13,7 +13,7 @@ make obtain-cert DOMAIN=app.opszero.com
 
 Make sure to check in the certs dir.
 
-## Generate a cert for Kubenetes
+## Generate Kubernetes Secret
 
 ```
 make generate-cert DOMAIN=app.opszero.com

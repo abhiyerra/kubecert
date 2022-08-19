@@ -1,7 +1,7 @@
 # kube-letsencrypt
 
 Use Let's Encrypt to generate a SSL Cert to be used in Kubernetes via
-Kubernetes Secrets. To use this
+Kubernetes Secrets.
 
 # Usage
 
